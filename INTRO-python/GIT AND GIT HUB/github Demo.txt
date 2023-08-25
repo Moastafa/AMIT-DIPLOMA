@@ -1,0 +1,17 @@
+
+github Demo
+
+git init
+
+git remote add origin "link"
+
+## Add file 
+
+git add . 
+
+git status
+ 
+git commit -m "update_EXP_function "
+
+git push -u origin master 
+
