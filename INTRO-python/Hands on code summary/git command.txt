@@ -1,0 +1,14 @@
+
+git init
+
+git remote add origin "link"
+
+## Add file 
+
+git add . 
+
+git status
+ 
+git commit -m "comment"
+
+git push -u origin master 
